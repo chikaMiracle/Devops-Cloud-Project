@@ -1,8 +1,10 @@
 # Devops- Assignment 1
 1. Command to create a user: sudo adduser username
-   i. Screen shot of all the users I created below:<img width="1135" height="648" alt="image" src="https://github.com/user-attachments/assets/ac0c2dbd-d704-4c9a-81a7-4511c4922c2b" />
+   i. Screen shot of all the users I created below:
 
-2. To create a group I used: sudo groupadd groupname, to get list of groups i used getent group
+   <img width="1135" height="648" alt="image" src="https://github.com/user-attachments/assets/ac0c2dbd-d704-4c9a-81a7-4511c4922c2b" />
+
+3. To create a group I used: sudo groupadd groupname, to get list of groups i used getent group
    i. Screenshot of the groups I created: <img width="1147" height="655" alt="image" src="https://github.com/user-attachments/assets/6bbc44fe-4ed5-4dcf-acd8-0a23bc4fb5f7" />
 
 3 To add user to a user I used: sudo usermod -aG groupname user, to get the list of group and users assigned to each group I used: getent groupname
