@@ -1,4 +1,4 @@
-# Devops-Cloud- Assignment 1
+# Devops- Assignment 1
 1. Command to create a user: sudo adduser username
    i. Screen shot of all the users I created below:<img width="1135" height="648" alt="image" src="https://github.com/user-attachments/assets/ac0c2dbd-d704-4c9a-81a7-4511c4922c2b" />
 
